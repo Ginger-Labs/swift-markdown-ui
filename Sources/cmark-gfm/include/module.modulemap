@@ -1,0 +1,4 @@
+module cmark_gfm [system][extern_c] {
+    header "cmark_gfm.h"
+    export *
+}
